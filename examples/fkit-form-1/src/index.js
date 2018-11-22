@@ -72,7 +72,7 @@ class HorizontalLoginForm extends React.Component {
             htmlType="submit"
             disabled={hasErrors(getFieldsError())}
           >
-            Log in
+            Log in No Touchy
           </Button>
         </FormItem>
       </Form>
