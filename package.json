@@ -1,0 +1,17 @@
+{
+    "name": "fkit-secret",
+    "version": "1.0.3",
+    "main": "index.js",
+    "module": "dist/index.js",
+    "repository": "https://github.com/agrublev/sample.git",
+    "author": "Angel Grablev <agrublev@gmail.com>",
+    "private": false,
+    "license": "MIT",
+    "scripts": {
+        "build": "rm -rf dist && NODE_ENV=production parcel build ./index.js --no-cache --detailed-report --no-source-maps"
+    },
+    "devDependencies": {
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    }
+}

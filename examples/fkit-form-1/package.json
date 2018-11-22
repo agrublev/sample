@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "fkit-secret": "1.0.3",
+    "git": "0.1.5",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "fkit-form-1",
+  "description": null,
+  "version": "0.0.10",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
