@@ -104,7 +104,7 @@ class HorizontalLoginForm extends React.Component {
 						htmlType="submit"
 						disabled={hasErrors(getFieldsError())}
 					>
-						Log in NOW!!!
+						Log in NO PETAR!
 					</Button>
 				</FormItem>
 			</Form>
