@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "fkit-secret/build.css";
-import "./index.css";
 import { Form, Icon, Input, Button } from "fkit-secret";
 const FormItem = Form.Item;
 
