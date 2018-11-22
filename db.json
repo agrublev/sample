@@ -11,17 +11,7 @@
             "currentlyTyping": {},
             "messages": []
         },
-        {
-            "uid": "25ad7bfd-0dbf-4994-96f3-f49f39a37637",
-            "createdTimestamp": 1522814245358,
-            "inCall": true,
-            "name": "Generic Steel Car",
-            "email": "Bret_Prosacco@example.org",
-            "type": "private",
-            "currentlyViewing": [],
-            "currentlyTyping": {},
-            "messages": []
-        },
+      
         {
             "uid": "c7b2e0be-177b-4995-83236-d50c8cf412b3",
             "createdTimestamp": 1533501642025,
@@ -43,21 +33,7 @@
             "timestamp": 1534636312015,
             "type": "image"
         },
-        {
-            "by": {
-                "id": "18307",
-                "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/surgeonist/128.jpg",
-                "name": "Akeem .H",
-                "email": "Gilbert.Schowalter@example.net",
-                "isOnline": false,
-                "pushToken": "ut Exce",
-                "timezone": "America/Swift_Current"
-            },
-            "uid": "ceb1fc17-ce30-42e8-9d49-58ebf97a1a90",
-            "message": "Praesentium adipisci corrupti. Officiis et numquam voluptates et. Assumenda aliquid maiores possimus sit. Iusto et aliquid deleniti et quaerat numquam.",
-            "timestamp": 1512802242006,
-            "type": "image"
-        },
+      
         {
             "by": {
                 "id": "74515",
@@ -200,24 +176,7 @@
             }
         ],
         "users": [
-            {
-                "user_id": "P",
-                "first_name": "6rT#@",
-                "last_name": "6aj2",
-                "avatar_url": "-g7Q",
-                "full_name": "Rzf[Dhb%Q0",
-                "email": "3\\j",
-                "timezone": ""
-            },
-            {
-                "user_id": "kvXYei",
-                "first_name": "oHa|1",
-                "last_name": "&=`",
-                "avatar_url": "q",
-                "full_name": "SL7PH:Wlw",
-                "email": "\"'O`O#r_",
-                "timezone": "V>x!ux`Qs3"
-            },
+     
             {
                 "user_id": "o!!cjK",
                 "first_name": "CN8EDrtt.",
