@@ -3,13 +3,14 @@ import ReactDOM from "react-dom";
 import "fkit-secret/build.css";
 import { Form, Icon, Input, Button } from "fkit-secret";
 const FormItem = Form.Item;
-
+// NOOOOO
 function hasErrors(fieldsError) {
 	return Object.keys(fieldsError).some(
 		field => fieldsError[field]
 	);
 }
 
+// Ехо работим
 class HorizontalLoginForm extends React.Component {
 	componentDidMount() {
 		// To disabled submit button at the beginning.
@@ -21,7 +22,7 @@ class HorizontalLoginForm extends React.Component {
 		this.props.form.validateFields((err, values) => {
 			if (!err) {
 				console.log(
-					"Received values of form: ",
+					"Received values of form!: ",
 					values
 				);
 			}
